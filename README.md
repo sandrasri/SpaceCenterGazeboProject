@@ -22,7 +22,7 @@
    gedit dreamhouse.world
 
 5. **Add the following line underneath the <world name="default"> tag in the file:**   
-   '<plugin name="myworld" filename="libmyworld.so"/>'
+   `<plugin name="myworld" filename="libmyworld.so"/>`
 
 6. **Run the simulation**   
    gazebo dreamhouse.world
