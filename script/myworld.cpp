@@ -7,7 +7,7 @@ namespace gazebo
 	public:
 		WorldPluginMyHome() : WorldPlugin()
 		{
-			printf("Welcome to Sandra's Home\n");
+			printf("Welcome to Sandra's World\n");
 		}
 	public:
 		void Load(physics:WorldPtr _world, sdf::ElementPtr _sdf)
