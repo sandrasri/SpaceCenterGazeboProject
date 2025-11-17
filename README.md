@@ -1,6 +1,6 @@
-# Gazebo Home Delivery Robot Simulation
+# Space Center Robot Simulation
 
-## This is a simulation of a Gazebo Project that launches a smart home environment with two delivery robots operating inside the house.
+## This is a simulation of a Gazebo Project that launches a Command Center of sorts with drones, and cameras monitoring the two mini starship turtles flying around.
 
 ### HOW TO LAUNCH
 1. **Clone the repo:**   
