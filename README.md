@@ -6,7 +6,7 @@
 1. **Clone the repo:**   
    git clone
   
-2. **Run the Simulation**
+2. **Run the Simulation:**
    cd world
    gazebo StarShip
    
