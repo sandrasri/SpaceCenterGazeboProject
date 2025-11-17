@@ -1,0 +1,3 @@
+/home/ubuntu/HouseGazeboProject/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/HouseGazeboProject/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/HouseGazeboProject/build/CMakeFiles/hello.dir
